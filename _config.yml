@@ -1,5 +1,4 @@
-exclude: [
-  './README.md',
-  './info.txt',
-  './CNAME',
-  ]
+exclude: 
+  - README.md
+  - info.txt
+  - CNAME
