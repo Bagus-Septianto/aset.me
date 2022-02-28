@@ -1,6 +1,5 @@
 exclude: [
-  'README.md',
-  'info.txt',
-  'CNAME',
-  '.nojekyll'
+  './README.md',
+  './info.txt',
+  './CNAME',
   ]
