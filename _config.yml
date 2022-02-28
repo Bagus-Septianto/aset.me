@@ -1,0 +1,6 @@
+exclude: [
+  'README.md',
+  'info.txt',
+  'CNAME',
+  '.nojekyll'
+  ]
