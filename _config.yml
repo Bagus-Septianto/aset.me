@@ -1,4 +1,4 @@
 exclude: 
   - README.md
-  - '*/info.txt'
   - CNAME
+  - '*/info.txt'
