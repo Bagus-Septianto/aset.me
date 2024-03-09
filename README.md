@@ -1,2 +1,1 @@
-# aset.me
-Repo for https://aset.me
+aset.me
